@@ -21,6 +21,8 @@ package net.shopin.git;
  * @Date	 2016年1月18日下午2:56:49
  */
 public class Hello {
-
+	public static void main(String[] args){
+		
+	}
 }
 
