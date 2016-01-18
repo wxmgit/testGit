@@ -1,0 +1,6 @@
+/build/
+/.settings/
+/WebRoot/META-INF/MANIFEST.MF
+*.class
+.classpath
+.project
